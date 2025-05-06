@@ -1,10 +1,3 @@
-my-website/
-├── index.html
-├── about.html
-├── contact.html
-├── styles/
-│   └── style.css
-└── images/
 <!DOCTYPE html>
 <html lang="en">
 <head>
