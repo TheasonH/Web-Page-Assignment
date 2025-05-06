@@ -156,7 +156,8 @@ UK</title>
 passed your underwater navigation skills and successfully
 found your way to the start point - or in this case, our
 home page.</p>
-<h3>About Us</h3>
+<img src="images/sea-ocean-diving-underwater-biology-aquatic-479812-pxhere.com.jpg" alt="Fish swimming in the ocean" width="400">
+  <h3>About Us</h3>
 <p>Bubble Under is a group of diving enthusiasts based in the
 South-west UK who meet up for diving trips in the summer
 months when the weather is good and the bacon rolls are
