@@ -166,21 +166,38 @@ found your way to the start point - or in this case, our home
 page.</p>
 <h3>About Us</h3>
 <p>Bubble Under is a group of diving enthusiasts based in the
-south-west UK who meet up for diving trips in the summer
+South-west UK who meet up for diving trips in the summer
 months when the weather is good and the bacon rolls are
 flowing. We arrange weekends away as small groups to cut the
-costs of accommodation and travel and to ensure that everyone
+costs of accommodation and travel, and to ensure that everyone
 gets a trustworthy dive buddy.</p>
 <p>Although we're based in the south-west, we don't stay on our
 own turf: past diving weekends away have included trips up to
-Scapa Flow in Scotland and to Malta's numerous wreck
+Scapa Flow in Scotland and Malta's numerous wrecks
 sites.</p>
 <p>When we're not diving, we often meet up in a local pub
 to talk about our recent adventures (any excuse, eh?).</p>
 <h3>Contact Us</h3>
 <p>To find out more, contact Club Secretary Bob Dobalina on
 01793 641207 or email bob@bubbleunder.com.</p>
-
+<p>To find out more, contact Club Secretary Bob Dobalina
+on 01793 641207 or <a
+href="mailto:bob@bubbleunder.com">email
+bob@bubbleunder.com</a>.</p>
+<p><img src="divers-circle.jpg" width="200" height="162"
+alt="A circle of divers practice their skills"/></p>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+<p>This is yet another paragraph.</p>
+<p>And just one more paragraph.</p>
+<div>This is a div.</div>
+<div>The content of each div appears on a new line.</div>
+<div>But unlike paragraphs, there is no additional padding.</div>
+<div>A div is a generic block-level container.</div>
+<div id="header">
+<h1>BubbleUnder.com</h1>
+<p>Diving club for the south-west UK - let's make a splash!</p>
+</div> <!-- end of header div -->
 
 
 
