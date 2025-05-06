@@ -156,14 +156,6 @@ UK</title>
 passed your underwater navigation skills and successfully
 found your way to the start point - or in this case, our
 home page.</p>
-</body>
-<h1>BubbleUnder.com</h1>
-<p>Diving club for the south-west UK - let's make a splash!</p>
-<h2>Welcome to our super-dooper Scuba site</h2>
-<p>Glad you could drop in and share some air with us! You've
-passed your underwater navigation skills and successfully
-found your way to the start point - or in this case, our home
-page.</p>
 <h3>About Us</h3>
 <p>Bubble Under is a group of diving enthusiasts based in the
 South-west UK who meet up for diving trips in the summer
@@ -195,9 +187,7 @@ alt="A circle of divers practice their skills"/></p>
 <div>But unlike paragraphs, there is no additional padding.</div>
 <div>A div is a generic block-level container.</div>
 <div id="header">
-<h1>BubbleUnder.com</h1>
-<p>Diving club for the south-west UK - let's make a splash!</p>
-</div> <!-- end of header div -->
+
 
 
 
