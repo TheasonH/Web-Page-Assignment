@@ -99,9 +99,49 @@ content="text/html; charset=utf-8"/>
 <!-- Added emphasis using the em element. Handy one, that. -->
 </body>
 </html>
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Commenting out XHTML</title>
+<meta http-equiv="Content-Type"
+content="text/html; charset=utf-8"/>
+</head>
+<body>
+<h1>Current Stock</h1>
+<p>The following items are available for order:</p>
+<ul>
+<li>Dark Smoke Window Tinting</li>
+<li>Bronze Window Tinting</li>
+<!-- <li>Spray mount</li>
+<li>Craft knife (pack of 5)</li> -->
+</ul>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Stock Note</title>
+<meta http-equiv="Content-Type"
+content="text/html; charset=utf-8"/>
+</head>
+<body>
+<p>Our current stock of craft knives &gt;
+OUT OF STOCK (more due in 3 days)</p>
+</body>
+</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<meta http-equiv="Content-Type"
+content="text/html; charset=utf-8"/>
+</head>
+<body>
+</body>
+</html>
 
 
 
