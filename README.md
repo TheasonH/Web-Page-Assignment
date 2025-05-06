@@ -1,195 +1,67 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Site</title>
-  <link rel="stylesheet" href="styles/style.css">
-</head>
-<body>
-  <h1>Welcome to My Website</h1>
-  <p>This is the homepage!</p>
-  <a href="about.html">About</a> | <a href="contact.html">Contact</a>
-</body>
-</html>
-styles/style.css
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
-  color: #333;
-  padding: 20px;
-}
-git init
-git add .
-git commit -m "Initial website"
-git remote add origin https://github.com/your-username/my-website.git
-git branch -M main
-git push -u origin main
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>Lists - an introduction</title>
-<meta http-equiv="Content-Type"
-content="text/html; charset=utf-8"/>
-</head>
-<body>
-<h1>Lists - an introduction </h1>
-<p>Here's a paragraph. A lovely, concise little paragraph.</p>
-<p>Here comes another one, followed by a subheading.</p>
-<h2>A subheading here</h2>
-<p>And now for a list or two:</p>
+
+ <head>
+
+  <title>The Most Basic Web Page in the World</title>
+
+  <meta http-equiv="Content-Type"
+   content="text/html; charset=utf-8"/>
+
+ </head>
+
+ <body>
+
+  <h1>The Most Basic Web Page in the World</h1>
+
+  <p>This is a very simple web page to get you started.
+  Hopefully you will get to see how the markup that drives
+  the page relates to the end result that you can see on
+  screen.</p>
+
+  <p>This is another paragraph, by the way. Just to show how it
+  works.</p>
+
+ </body>
+
+</html>
+<html>
+  <head>
+    <title>My First Web Page</title>
+  </head>
+  <body>
+    <h1>Welcome to My Web Page!</h1>
+    <p>This is my first web page. I hope you like it!</p>
+  </body>
+</html>
 <ul>
-<li>This is a bulleted list</li>
-<li>No order applied</li>
-<li>Just a bunch of points we want to make</li>
+  <li>Apples</li>
+  <li>Oranges</li>
+  <li>Bananas</li>
 </ul>
-<p>And here's an ordered list:</p>
+
 <ol>
-<li>This is the first item</li>
-<li>Followed by this one</li>
-<li>And one more for luck</li>
+  <li>Wake up</li>
+  <li>Brush teeth</li>
+  <li>Have breakfast</li>
 </ol>
-</body>
-</html>
-How does it look to you? Did you type it all out? Remember, if it seems like a hassle
-to type out the examples, you can find all the markup in the code archive, as I ex
-plained in the preface. However, bear in mind that simply copying and pasting
-markup, then saving and running it, doesn’t really give you a feel for creating your
-own web site—it really will pay to learn by doing. Even if you make mistakes, it’s
-still a better way to learn (you’ll be pleased when you can spot and fix your own
-Order the print version of this book to get all 400+ pages!
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>Lists - an introduction</title>
-<meta http-equiv="Content-Type"
-content="text/html; charset=utf-8"/>
-</head>
-<body>
-<h1>Lists - an introduction </h1>
-<p>Here's a paragraph. A lovely, concise little paragraph.</p>
-<p>Here comes another one, followed by a subheading.</p>
-<h2>A subheading here</h2>
-<p>And now for a list or two:</p>
-<ul>
-<li>This is a bulleted list</li>
-<li>No order applied</li>
-<li>Just a bunch of points we want to make</li>
-</ul>
-<p>And here's an ordered list:</p>
-<ol>
-<li>This is the first item</li>
-<li>Followed by this one</li>
-<li>And one more for luck</li>
-</ol>
-</body>
-</html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>Comment example</title>
-<meta http-equiv="Content-Type"
-content="text/html; charset=utf-8"/>
-</head>
-<body>
-<p>I really, <em>really</em> like this XHTML stuff.</p>
-<!-- Added emphasis using the em element. Handy one, that. -->
-</body>
-</html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>Commenting out XHTML</title>
-<meta http-equiv="Content-Type"
-content="text/html; charset=utf-8"/>
-</head>
-<body>
-<h1>Current Stock</h1>
-<p>The following items are available for order:</p>
-<ul>
-<li>Dark Smoke Window Tinting</li>
-<li>Bronze Window Tinting</li>
-<!-- <li>Spray mount</li>
-<li>Craft knife (pack of 5)</li> -->
-</ul>
-</body>
-</html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>Stock Note</title>
-<meta http-equiv="Content-Type"
-content="text/html; charset=utf-8"/>
-</head>
-<body>
-<p>Our current stock of craft knives &gt;
-OUT OF STOCK (more due in 3 days)</p>
-</body>
-</html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title></title>
-<meta http-equiv="Content-Type"
-content="text/html; charset=utf-8"/>
-</head>
-<body>
-</body>
-</html>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>Bubble Under—The diving club for the south-west
-UK</title>
-<body>
-<h1>BubbleUnder.com</h1>
-<p>Diving club for the south-west UK - let's make a splash!</p>
-<h2>Welcome to our super-dooper Scuba site</h2>
-<p>Glad you could drop in and share some air with us! You've
-passed your underwater navigation skills and successfully
-found your way to the start point - or in this case, our
-home page.</p>
-<img src="images/sea-ocean-diving-underwater-biology-aquatic-479812-pxhere.com.jpg" alt="Fish swimming in the ocean" width="400">
-  <h3>About Us</h3>
-<p>Bubble Under is a group of diving enthusiasts based in the
-South-west UK who meet up for diving trips in the summer
-months when the weather is good and the bacon rolls are
-flowing. We arrange weekends away as small groups to cut the
-costs of accommodation and travel, and to ensure that everyone
-gets a trustworthy dive buddy.</p>
-<p>Although we're based in the south-west, we don't stay on our
-own turf: past diving weekends away have included trips up to
-Scapa Flow in Scotland and Malta's numerous wrecks
-sites.</p>
-<p>When we're not diving, we often meet up in a local pub
-to talk about our recent adventures (any excuse, eh?).</p>
-<h3>Contact Us</h3>
-<p>To find out more, contact Club Secretary Bob Dobalina on
-01793 641207 or email bob@bubbleunder.com.</p>
-<p>To find out more, contact Club Secretary Bob Dobalina
-on 01793 641207 or <a
-href="mailto:bob@bubbleunder.com">email
-bob@bubbleunder.com</a>.</p>
-<p><img src="divers-circle.jpg" width="200" height="162"
-alt="A circle of divers practice their skills"/></p>
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
-<p>This is yet another paragraph.</p>
-<p>And just one more paragraph.</p>
-<div>This is a div.</div>
-<div>The content of each div appears on a new line.</div>
-<div>But unlike paragraphs, there is no additional padding.</div>
-<div>A div is a generic block-level container.</div>
-<div id="header">
-
-
-
-
-
+<img src="mycat.jpg" alt="A picture of my cat">
+<a href="http://www.google.com">Visit Google</a>
+<table border="1">
+  <tr>
+    <th>Item</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td>Bread</td>
+    <td>$1.00</td>
+  </tr>
+</table>
+<form action="submit_form.php" method="post">
+  <label>Name:</label>
+  <input type="text" name="name">
+  <input type="submit" value="Submit">
+</form>
+<p style="color:blue;">This text is blue.</p>
